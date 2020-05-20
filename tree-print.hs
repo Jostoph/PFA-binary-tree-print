@@ -19,7 +19,6 @@ t7 = Node 1 Nil (Node 2 Nil (Node 3 Nil (Node 4 Nil Nil)))
 t8 = Node 'a' (Node 'b' (Node 'd' (Node 'h' Nil Nil) (Nil)) (Node 'e' (Nil) (Node 'k' Nil Nil))) (Node 'c' (Node 'f' (Node 'l' Nil Nil) (Node 'm' Nil Nil)) (Node 'g' (Node 'n' Nil Nil) (Node 'o' Nil Nil)))
 t9 = Node "Albert" (Node "Bruce" (Node "David" Nil Nil) (Node "Eric" Nil Nil)) (Node "Charlie" (Node "Fabien" Nil Nil) (Node "Greg" Nil Nil))
 t10 = Node [1,2,3] (Node [1,2,3,4] Nil Nil) (Node [2,3,5,2] Nil Nil)
-t11 = Node 1 (Node 2 (Node 44 Nil Nil) (Node 5 Nil Nil)) (Node 3 (Node 6 Nil Nil) (Node 7 Nil Nil))6
 
 -- Generate a String of n spaces
 spaces 0 = ""
