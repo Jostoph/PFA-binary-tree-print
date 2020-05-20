@@ -1,6 +1,6 @@
 # Prog. Fonctionnelle Avancée: Laboratoire 9
 
-### PFA - Printing of a binary tree (Horizontal order)
+### PFA - Impression d'un arbre binaire (ordre horizontal) 
 
 > Christoph Rouff Soit Rueff, Tiago Povoa Quinteiro
 
