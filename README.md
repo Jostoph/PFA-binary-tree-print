@@ -141,7 +141,7 @@ height (Node _ left right) =
 
 ##### Informations supplémentaires
 
-Jusqu'alors, on avait calculé la hauteur et on déduisait le décalage. Le problème était d'avoir un espacement fixe. Il ne s'adaptait pas à la taille réelle des éléments, ni tenait compte de la possibilité de différentes largeurs d'élments.
+Jusqu'alors, on avait calculé la hauteur et on déduisait le décalage. Le problème était d'avoir un espacement fixe. Il ne s'adaptait pas à la taille réelle des éléments, ni tenait compte de la possibilité de différentes largeurs d'éléments.
 
 Exemple:
 
